@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **FrontEnd Dev Intern @Celebal Technology**
+- 🔭 I’m ex-**FrontEnd Dev Intern @Celebal Technology**
 
 - 🌱 I’m currently learning **MongoDB, ExpressJs, NodeJs,**
 
